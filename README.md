@@ -3691,7 +3691,7 @@ DECLARE_XML_PROCESSOR(resetcooldown)  // รีเซ็ตคูลดาวน
 
 นอกเหนือจาก XML Action Processors ทางเราได้ติดตั้ง Assembly Hooks ระดับ Native ใน `game_shared_x64.dll` 2 จุดสำคัญ:
 
-#### 4.1 ลดคูลดาวน์สกิลขโมย 20% อัตโนมัติ (`Dota2_HookToolStartCooldown`)
+#### 4.1 ลดคูลดาวน์สกิลขโมย 20% อัตโนมัติ 
 - **Hook Location:** Entry ของฟังก์ชัน `IEntityTool::StartCooldown`
 - **การทำงาน:** ตรวจสอบ Attribute `m_ySlot` ของ Tool หากตรวจพบว่าเป็น **Slot 5** หรือ **Slot 6** ระบบจะลดระยะเวลาคูลดาวน์ลง 20% อัตโนมัติทันที:
   $$	ext{New Duration} = rac{	ext{Duration} 	imes 4}{5}$$
