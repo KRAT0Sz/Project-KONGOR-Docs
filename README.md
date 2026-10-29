@@ -3536,7 +3536,7 @@ Posted October 15, 2020
 
 ---
 
-## ส่วนที่ 4: PK Engine / Dota 2 Custom Combat Actions & Scripting Extensions
+## ส่วนที่ 4: PK Engine / Custom Combat Actions & Scripting Extensions
 
 > **จัดทำและเรียบเรียง:** สำหรับ (Project KONGOR)  
 > **โมดูลเป้าหมาย:** `game_shared_x64.dll` (Section Extension)  
