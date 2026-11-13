@@ -1,10 +1,12 @@
-EnginePK Engine# Heroes of Newerth (K2 Engine) — XML Scripting: A Primer
+# 📚 Project KONGOR Documentation
 
-> **แหล่งข้อมูลอ้างอิง:** HoN Official Developer Forums (Author: ElementUser - S2/Frostburn Staff)
-> **Archive URL:** https://web.archive.org/web/20211207092852/https://forums.heroesofnewerth.com/index.php?/topic/1546-xml-scripting-a-primer/
-> **จัดเก็บและเรียบเรียง:** สำหรับ (Project KONGOR)
+คลังเอกสารและคู่มืออ้างอิงสำหรับการพัฒนา **Project KONGOR**
 
-วิธีเขียน **effect  https://github.com/KRAT0Sz/Project-KONGOR-Docs/effect.md
+## 📑 สารบัญเอกสาร (Documentation Index)
+
+| หมวดหมู่ | เอกสาร | คำอธิบาย |
+| :--- | :--- | :--- |
+| ✨ **Visual Effects** | **[คู่มือการสร้างไฟล์ Effect (`effect.md`)](./effect.md)** | โครงสร้างแท็ก `<effect>`, การตั้งค่า `<particle>`, ระบบ `<emitter>` รูปแบบต่างๆ รวมถึงแสง โมเดล และสไปรต์ |
 
 ## ส่วนที่ 1: การตั้งค่าพื้นฐาน และโครงสร้างไฟล์ Entity
 
