@@ -4,7 +4,7 @@ EnginePK Engine# Heroes of Newerth (K2 Engine) — XML Scripting: A Primer
 > **Archive URL:** https://web.archive.org/web/20211207092852/https://forums.heroesofnewerth.com/index.php?/topic/1546-xml-scripting-a-primer/
 > **จัดเก็บและเรียบเรียง:** สำหรับ (Project KONGOR)
 
----
+วิธีเขียน **effect  https://github.com/KRAT0Sz/Project-KONGOR-Docs/effect.md
 
 ## ส่วนที่ 1: การตั้งค่าพื้นฐาน และโครงสร้างไฟล์ Entity
 
